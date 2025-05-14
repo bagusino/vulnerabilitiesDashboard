@@ -9,20 +9,14 @@ npm install
 npm run dev
 ```
 ## Tecnologías
-React + TypeScript
-
-Vite
-
-TailwindCSS
-
-shadcn/ui
-
-Lucide-react (iconos)
-
-Recharts (opcional, para gráficos)
+- React + TypeScript
+- Vite
+- TailwindCSS
+- shadcn/ui
+- Lucide-react (iconos)
+- Recharts (opcional, para gráficos)
 
 ## Requisitos
 Asegúrate de tener instalado:
-
-Node.js v18 o superior
-npm v9+ 
+- Node.js v18 o superior
+- npm v9+ 
