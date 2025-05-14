@@ -1,4 +1,4 @@
-# Akuda Vulnerability Dashboard
+# Vulnerability Dashboard
 
 Dashboard de gestión de vulnerabilidades hecho con React + Vite + TailwindCSS (shadcn/ui).
 
